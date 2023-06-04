@@ -1,5 +1,4 @@
 # Arup Baral
----
 * I am a undergraduate student majoring in Electronics and Telecommunication Engineering
 
 * My technical skills in programming languages:
