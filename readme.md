@@ -2,12 +2,15 @@
 ### 💫 About Me:
 * 👨🏽‍💻 I'm a undergraduate student majoring in Electronics and Telecommunication Engineering from Jadavpur University
 * 💻 My technical skills lie in the following programming languages:
+    * Javascript
+    * Html
+    * Css 
     * Java
     * Python
     * C
-* 🔭 I’m currently focusing on Deep learning and AI
-* 🚀 I have experience in Android Development (using XML & JAVA), and also familiar with Firebase
-* 🌱 I’m currently learning Django and NLP(Natural Language Processing)
+* 🔭 I’m currently focusing on Full stack web development
+* 🚀 I have experience in Web Development, Android Development and also familiar with Appwrite and Firebase
+* 🌱 I’m currently learning React JS
 * ⚡ I love to read articles and books, particularly in Psychology and human Nervous System<br>
 
 
