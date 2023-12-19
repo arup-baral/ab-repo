@@ -10,7 +10,7 @@
     * C
 * 🔭 I’m currently focusing on Full stack web development
 * 🚀 I have experience in Web Development, Android Development and also familiar with Appwrite and Firebase
-* 🌱 I’m currently learning React JS
+* 🌱 I’m currently learning React JS, Node JS
 * ⚡ I love to read articles and books, particularly in Psychology and human Nervous System<br>
 
 
